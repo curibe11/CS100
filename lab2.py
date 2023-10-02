@@ -1,1 +1,1 @@
-print ('Hello Lab2.py')
+print ("Hello World 2")
